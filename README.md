@@ -8,10 +8,12 @@ My name is Igor, I'm a cybersecurity student with focus on Pentesting. I made th
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-Any freelance work? Do reach, [email](mailto:vicente.igor2@gmail.com) :)
+Do you need a penetration tester for your website or mobile app? Do reach, [email](mailto:vicente.igor2@gmail.com) ✉️
 
 ## Tools & Technologies 💻 ⚡
 <img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 
 
 
