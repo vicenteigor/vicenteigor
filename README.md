@@ -11,7 +11,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 Any freelance work? Do reach, [email](mailto:vicente.igor2@gmail.com) :)
 
 ## Tools & Technologies 💻 ⚡
-![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Kali Badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<code><img height="20" src="<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
 
 
 
