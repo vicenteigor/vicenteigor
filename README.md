@@ -2,7 +2,7 @@
 ## My name is Igor, I'm a cybersecurity student with focus on Pentesting. I made this github to share my projects of cybersecurity, like keyllogers, malware and exploits. 
 
 ## Contact
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vicente-igor/)](https://www.linkedin.com/in/vicente-igor/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vicente-igor/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/theigorvicente/)
 
 ## Tools & Technologies 💻 ⚡
