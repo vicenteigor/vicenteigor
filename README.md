@@ -12,7 +12,8 @@ Do you need a penetration tester for your website or mobile app? Do reach, [emai
 
 ## Tools & Technologies 💻 ⚡
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+<code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+"></code>
 
 
 
