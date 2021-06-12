@@ -11,8 +11,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 Do you need a penetration tester for your website or mobile app? Do reach, [email](mailto:vicente.igor2@gmail.com) ✉️
 
 ## Tools & Technologies 💻 ⚡
-<img height="40" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-<img height="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img  src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
 
 
