@@ -1,4 +1,4 @@
-### Hi, there 🖖
+### Hey, there 🖖
 <a href="https://www.linkedin.com/in/vicente-igor/">
   <img align="left" alt="Igor's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
