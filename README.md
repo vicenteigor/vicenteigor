@@ -8,7 +8,7 @@
   <img align="center" alt="Igor-c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Igor-c++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Igor-linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- <img align = "right" alt="Igot-hacker" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" height = "200" position="top">
+ <img align = "right" widht = 100% alt="Igot-hacker" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif">
 </div>
 
  ##
