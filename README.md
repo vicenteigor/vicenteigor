@@ -1,7 +1,7 @@
  <div>
   <a href="https://github.com/vicenteigor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorvicente&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img align = "right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenteigor&layout=compact&langs_count=7&theme=dracula"/>  
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenteigor&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
