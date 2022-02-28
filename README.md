@@ -19,7 +19,7 @@
  <a href="https://medium.com/@SeaPunk" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  
  
- ![Snake animation](https://github.com/vicenteigor/vicenteigor/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
 
