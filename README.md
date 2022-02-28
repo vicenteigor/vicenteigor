@@ -4,7 +4,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenteigor&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Python" height="40" width="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-c" height="40" width="80" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Igor-c++" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Igor-linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
