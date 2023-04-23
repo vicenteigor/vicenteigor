@@ -1,4 +1,4 @@
-## Hey! I'm a security analyst and Backend developer
+## Hey! I'm a security analyst and Backend developer.
 
 <div>
  <a href="https://github.com/vicenteigor">
