@@ -1,4 +1,5 @@
-## Hey! I'm a security analyst and Backend developer.
+## Hey! I'm a security analyst and data analyst student.
+## This Github is to share my data analysis/data engineering projects
 
 <div>
  <a href="https://github.com/vicenteigor">
