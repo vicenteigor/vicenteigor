@@ -7,9 +7,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenteigor&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Igor-PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Igor-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Igor-PY" height="30" width="40" src="https://skillicons.dev/icons?i=debian">
+  <img align="center" alt="Igor-PY" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Igor-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Igor-PY" height="40" width="50" src="https://skillicons.dev/icons?i=debian">
 </div>
 
  ##
