@@ -1,4 +1,4 @@
-## Hey! I'm a security analyst and data analyst student.
+## Hey! I'm a security analyst and data analysis student.
 ## This Github is to share my data analysis/data engineering projects
 
 <div>
